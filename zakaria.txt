@@ -1,0 +1,21 @@
+test zakaria1(taille):
+	taille = 2	(ok)
+	taille = -1	(failed)	
+	taille = "none"	(failed)	
+
+
+test zakaria2(arr):
+	arr = [-5,2,3]	(ok)
+	arr = [5,2]	(failed)
+	arr = [2,2]	(failed)
+
+reforcement code zakaria1:
+	verifiez que la taille est un entier positif 
+
+reforcement code zakaria2:
+	verifiez la longueur du tableau arr et si tout ces éléments sont des entier positif 
+
+
+
+
+
