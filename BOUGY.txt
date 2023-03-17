@@ -1,0 +1,7 @@
+- Identification des tests unitaires :
+
+Je compte utiliser la library unittest qui me permettra de tester chacune de mes méthodes pour voir les erreurs soulevées par celles-ci.
+
+- Identification des renforcements de code qui pourraient être effectués :
+
+J'utilise des variables de type chaînes de caractères, je pourrais donc vérifier si les paramètres sont bien des chaînes de caractères et non d'un autre type.
