@@ -1,0 +1,11 @@
+Les tests unitaires pour la fonction "jarod1()" sont:
+vérifier que 31536000 correspond à une année
+vérifier que 2628002 correspond à un mois
+vérifier que 86400 correspond à un jour
+vérifier que 3600 correspond à une heure
+vérifier que 60 correspond à une minute
+
+Les tests unitaires pour la fonction "jarod2()" sont: 
+Vérifier, avec diverses valeur, que les valeurs retournée sont correcte
+
+Pour le renforcement, qui est commun aux deux fonctions on vérifiera que les valeurs ne sont pas négatives.
