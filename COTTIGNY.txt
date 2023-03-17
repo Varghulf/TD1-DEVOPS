@@ -1,0 +1,26 @@
+Pour le test unitaire de ma partie j'ajoute:
+
+import unittest
+
+
+class ChaineDeCaractereTest(unittest.TestCase):
+    def test_simple(self):
+        self.assertTrue(True)
+
+
+if __name__ == '__main__':
+    unittest.main()
+
+Pour voir combien de temps le programme met et si il marche.
+
+
+Pour le renforcement du code: 
+
+try:
+   val = int(nbr)
+   print("La valeur entree est un entier = ", val)
+except ValueError:
+   print("Ce n'est pas un entier!")
+
+pour vérifier si la valeur donnée par l'utilisateur est bien un nombre.
+
