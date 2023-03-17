@@ -1,0 +1,14 @@
+Test unitaire:
+
+Test pour antoine1() :
+Vérifier que l'affichage renvoie bien "tuple" et "3.14" en sortie.
+Vérifier que l'ajout d'un élément à la fin du tuple a bien été effectué en vérifiant que la longueur du tuple a augmenté de 1.
+Vérifier que la recherche de l'élément [1,2,3,4] renvoie bien "trouvé!".
+
+Test pour antoine2() :
+Vérifier qu'un doublon est bien détecté si présent dans le tuple.
+Vérifier que le tuple a bien été inversé en vérifiant que le dernier élément du tuple initial est maintenant le premier élément du tuple inversé.
+
+Renforcement de code:
+
+Vérifier dans chaque fonction que la variable appelé est bien un tuple.
